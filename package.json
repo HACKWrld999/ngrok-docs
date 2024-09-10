@@ -24,7 +24,7 @@
     "@docusaurus/core": "2.4.3",
     "@docusaurus/plugin-client-redirects": "2.4.3",
     "@docusaurus/plugin-google-analytics": "2.4.3",
-    "@docusaurus/preset-classic": "2.4.3",
+    "@docusaurus/preset-classic": "3.5.0",
     "@docusaurus/theme-mermaid": "2.4.3",
     "@loadable/component": "5.15.3",
     "@mdx-js/react": "1.6.22",
